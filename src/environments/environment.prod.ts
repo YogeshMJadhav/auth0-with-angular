@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  domain: 'ivisionwebstudio.auth0.com',
-  client_id: 'nF5loMSMAzTFU7UnDCzWm4PnAl2yGubR',
+  domain: 'YOUR_DOMAIN_NAME',
+  client_id: 'YOUR_CLIENT_ID',
 };
