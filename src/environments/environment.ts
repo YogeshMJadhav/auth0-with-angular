@@ -4,8 +4,6 @@
 
 export const environment = {
   production: false,
-  domain: 'ivisionwebstudio.auth0.com',
-  client_id: 'nF5loMSMAzTFU7UnDCzWm4PnAl2yGubR',
 };
 
 /*
